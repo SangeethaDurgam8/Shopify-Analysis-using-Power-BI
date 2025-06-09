@@ -2,14 +2,13 @@
 **Shopify Sales & Customer Funnel Report**
 This Power BI dashboard provides a comprehensive overview of Shopify's sales performance, customer behavior, and retention metrics.
 
-**Purpose**
-To visualize and analyze:
+**Purpose**: To visualize and analyze
 
-Sales transactions and performance
+1. Sales transactions and performance
 
-Customer acquisition and retention trends
+2. Customer acquisition and retention trends
 
-Regional performance across provinces and cities
+3. Regional performance across provinces and cities
 
 Key KPIs like LTV, repeat rate, and purchase frequency
 
